@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         var kalispera : String
+        var kalispera3 : String
         var greek : String
          var ciao : String
         var buenosdias : String
