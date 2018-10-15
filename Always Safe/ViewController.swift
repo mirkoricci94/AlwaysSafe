@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         var kalispera : String
         var greek : String
          var ciao : String
+        var buenosdias : String
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
