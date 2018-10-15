@@ -11,9 +11,8 @@ import UIKit
 class ViewController: UIViewController {
     
     override func viewDidLoad() {
-        var test2 : String
-        var test1 : String
-        var volpeee : String
+       
+        var greek : String
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
