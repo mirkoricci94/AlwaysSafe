@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
        
         var greek : String
+         var ciao : String
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
