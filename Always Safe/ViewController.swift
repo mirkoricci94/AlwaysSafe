@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     override func viewDidLoad() {
-       
+        var kalispera : String
         var greek : String
          var ciao : String
         super.viewDidLoad()
